@@ -1,0 +1,10 @@
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/CMakeFiles/rebuild_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/CMakeFiles/edit_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-cocos2d-objc/CMakeFiles/rebuild_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-cocos2d-objc/CMakeFiles/edit_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-c/spine-c-unit-tests/CMakeFiles/rebuild_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-c/spine-c-unit-tests/CMakeFiles/edit_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-c/spine-c-unit-tests/CMakeFiles/spine_unit_test.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-cpp/spine-cpp-unit-tests/CMakeFiles/rebuild_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-cpp/spine-cpp-unit-tests/CMakeFiles/edit_cache.dir
+/Users/wisnuriyan/Documents/Ruangguru/Gamification/spine-runtimes/spine-cocos2d-objc/build/spine-cpp/spine-cpp-unit-tests/CMakeFiles/spine_cpp_unit_test.dir

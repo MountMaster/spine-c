@@ -1,0 +1,20 @@
+
+magictionhair_m.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_back_magictionhair_m
+  rotate: false
+  xy: 2, 2
+  size: 257, 341
+  orig: 257, 341
+  offset: 0, 0
+  index: -1
+hair_front_magictionhair_m
+  rotate: false
+  xy: 261, 114
+  size: 257, 229
+  orig: 257, 229
+  offset: 0, 0
+  index: -1
